@@ -1,2 +1,3 @@
 # Dumangan
-Dumangan is an online platform for local farmers enabling them to showcase their locally produced goods at a reasonable price with direct buyers. This makes way for the Filipino people to support and but locally produced goods. #SupportLocal
+Dumangan Website: https://dumanganstore-dmngstr.web.app/index.html
+Provided here are the link for the documents supporting Dumangan: https://bit.ly/3m1fDYh
